@@ -9,7 +9,7 @@ window.onmousemove = (e) => {
         },
         {
             fill: "forwards",
-            duration: 256000,
+            duration: 128000, // 128 second
         }
     );
 };
